@@ -1,0 +1,287 @@
+[
+ {
+  "key": "masal-1-1",
+  "text": "Kechy sırt çantasını hazırladı. Bugün dünyayı gezecek!",
+  "spec": "room; kechy 165 290 .78 happy2; 🎒 300 245 64 pop; 🗺️ 320 175 46"
+ },
+ {
+  "key": "masal-1-2",
+  "text": "Uçağa bindi. Bulutların üstünden uçtu. Vıııın!",
+  "spec": "sky; ✈️ 200 140 96 float; 🐐 165 128 30"
+ },
+ {
+  "key": "masal-1-3",
+  "text": "Çin'de bir pandayla tanıştı. Panda bambu yiyordu.",
+  "spec": "forest; 🐼 250 238 92 sway; 🎋 335 220 80; kechy 110 292 .58 wow"
+ },
+ {
+  "key": "masal-1-4",
+  "text": "Akşam evine döndü. Dünya ne kadar büyük ve güzel!",
+  "spec": "night; kechy 190 292 .78 happy2; 🏠 320 238 84; 🌍 80 90 46 float"
+ },
+ {
+  "key": "masal-2-1",
+  "text": "Kechy bahçede kocaman bir yumurta buldu.",
+  "spec": "garden; kechy 120 292 .72 wow; 🥚 285 245 96 sway"
+ },
+ {
+  "key": "masal-2-2",
+  "text": "Çıt çıt! Yumurta kırılmaya başladı.",
+  "spec": "garden; 🥚 210 225 116 sway; 💥 262 140 64 pop; kechy 80 292 .55 wow"
+ },
+ {
+  "key": "masal-2-3",
+  "text": "İçinden minik bir dinozor çıktı. Adı Dino!",
+  "spec": "garden; 🦕 240 235 128 pop; kechy 95 292 .6 happy2"
+ },
+ {
+  "key": "masal-2-4",
+  "text": "Kechy ve Dino en iyi arkadaş oldular.",
+  "spec": "meadow; kechy 130 292 .75 happy2; 🦕 290 235 116; ❤️ 205 110 44 float"
+ },
+ {
+  "key": "masal-3-1",
+  "text": "Kechy bir roket yaptı. Üç, iki, bir... Uç!",
+  "spec": "meadow; kechy 120 292 .72 happy2; 🚀 290 200 116 float"
+ },
+ {
+  "key": "masal-3-2",
+  "text": "Roket Ay'a kondu. Ay çok sessizdi.",
+  "spec": "moon; 🚀 250 190 100; kechy 130 292 .58 wow; 🌍 330 70 44"
+ },
+ {
+  "key": "masal-3-3",
+  "text": "Yıldızlar göz kırptı: Merhaba Kechy!",
+  "spec": "space; ⭐ 90 80 52 float; ⭐ 310 70 42 float; ⭐ 205 140 64 pop; kechy 200 298 .55 happy2"
+ },
+ {
+  "key": "masal-3-4",
+  "text": "Kechy Dünya'ya el salladı ve eve döndü.",
+  "spec": "space; 🌍 110 115 96 float; kechy 265 292 .62 happy2; 🚀 350 200 56 sway"
+ },
+ {
+  "key": "masal-4-1",
+  "text": "Mino'nun laboratuvarında renkli şişeler var.",
+  "spec": "lab; mino 205 292 1.05 wow; 🧪 95 205 50 sway"
+ },
+ {
+  "key": "masal-4-2",
+  "text": "Suya bir damla boya ekledi. Su masmavi oldu!",
+  "spec": "lab; 💧 150 150 64 float; 🎨 250 160 60 pop; mino 330 292 .85 happy2"
+ },
+ {
+  "key": "masal-4-3",
+  "text": "Sonra köpük yaptı. Köpükler uçtu, uçtu.",
+  "spec": "lab; 🫧 100 110 52 float; 🫧 205 80 42 float; 🫧 300 120 56 float; mino 200 296 .9 happy2"
+ },
+ {
+  "key": "masal-4-4",
+  "text": "Kechy alkışladı: Bilim çok eğlenceli!",
+  "spec": "lab; kechy 125 292 .68 happy2; mino 285 292 .95 happy2; 👏 205 110 50 pop"
+ },
+ {
+  "key": "masal-5-1",
+  "text": "Kechy denize daldı. Blup blup!",
+  "spec": "sea; kechy 200 285 .72 wow; 🫧 120 90 32 float; 🫧 300 60 26 float; 🫧 250 120 20 float"
+ },
+ {
+  "key": "masal-5-2",
+  "text": "Renkli balıklar ona el salladı.",
+  "spec": "sea; 🐠 110 110 64 float; 🐠 300 90 52 float; 🐡 210 180 54 sway; kechy 335 294 .5 happy2"
+ },
+ {
+  "key": "masal-5-3",
+  "text": "Ahtapot sekiz koluyla sarıldı. Ne kadar çok kol!",
+  "spec": "sea; 🐙 205 185 136 sway; kechy 75 294 .5 happy2"
+ },
+ {
+  "key": "masal-5-4",
+  "text": "Dev balina şarkı söyledi: Uuuu!",
+  "spec": "sea; 🐳 205 145 160 float; 🎵 330 60 42 pop; 🎶 80 70 36 float"
+ },
+ {
+  "key": "masal-6-1",
+  "text": "Momo ormanda yürüyüşe çıktı.",
+  "spec": "forest; momo 205 292 1.1 happy2"
+ },
+ {
+  "key": "masal-6-2",
+  "text": "Sincap fındık topluyordu. Hop hop!",
+  "spec": "forest; 🐿️ 185 230 84 pop; 🌰 262 262 40; momo 325 294 .85 wow"
+ },
+ {
+  "key": "masal-6-3",
+  "text": "Ağaçta Luna oturuyordu. Hu hu!",
+  "spec": "forest; luna 215 200 .95 happy; 🌿 215 210 70; momo 95 294 .85 happy"
+ },
+ {
+  "key": "masal-6-4",
+  "text": "Orman sesleri çok güzeldi. Momo çok mutluydu.",
+  "spec": "forest; momo 205 292 1.05 happy2; 🍄 85 262 50; 🌼 330 266 44; 🐦 300 80 42 float"
+ },
+ {
+  "key": "masal-7-1",
+  "text": "Piko bir davul buldu. Bum bum!",
+  "spec": "stage; piko 190 292 1.05 happy2; 🥁 295 258 72 pop"
+ },
+ {
+  "key": "masal-7-2",
+  "text": "Robo piyano çaldı. Tiri riri!",
+  "spec": "stage; robo 190 292 1.05 happy2; 🎹 300 255 72"
+ },
+ {
+  "key": "masal-7-3",
+  "text": "Kechy trompet üfledi. Düt düüt!",
+  "spec": "stage; kechy 190 292 .78 wow; 🎺 300 185 64 sway"
+ },
+ {
+  "key": "masal-7-4",
+  "text": "Hep birlikte bir orkestra oldular!",
+  "spec": "stage; piko 85 292 .85 happy2; kechy 200 294 .7 happy2; robo 318 292 .85 happy2; 🎵 200 70 42 float; 🎶 110 90 36 float"
+ },
+ {
+  "key": "masal-8-1",
+  "text": "Kar yağıyordu. Her yer bembeyaz!",
+  "spec": "snow; ❄️ 110 90 46 spin; ❄️ 300 70 38 float; ❄️ 205 130 54 float"
+ },
+ {
+  "key": "masal-8-2",
+  "text": "Kechy atkısını taktı ve dışarı çıktı.",
+  "spec": "snow; kechy 190 292 .78 happy2; 🧣 290 170 52 pop"
+ },
+ {
+  "key": "masal-8-3",
+  "text": "Bir kardan adam yaptı. Burnu havuçtan!",
+  "spec": "snow; ⛄ 245 230 136; kechy 95 292 .62 happy2"
+ },
+ {
+  "key": "masal-8-4",
+  "text": "Sonra eve girip sıcak süt içti. Mmm!",
+  "spec": "room; kechy 170 292 .78 happy2; ☕ 305 225 64 pop"
+ },
+ {
+  "key": "masal-9-1",
+  "text": "Kechy boya kalemlerini çıkardı.",
+  "spec": "room; kechy 145 292 .78 happy2; 🖍️ 300 225 64 sway"
+ },
+ {
+  "key": "masal-9-2",
+  "text": "Önce sarı bir güneş çizdi.",
+  "spec": "room; 🌞 200 150 116 spin; kechy 335 294 .5 happy2"
+ },
+ {
+  "key": "masal-9-3",
+  "text": "Sonra rengârenk bir gökkuşağı!",
+  "spec": "meadow; 🌈 210 150 190 pop; kechy 85 294 .55 wow"
+ },
+ {
+  "key": "masal-9-4",
+  "text": "Resmini duvara astı. Ne güzel oldu!",
+  "spec": "room; 🖼️ 200 140 116; kechy 100 294 .6 happy2; ⭐ 315 90 42 float"
+ },
+ {
+  "key": "masal-10-1",
+  "text": "Toprakta minik bir tohum uyandı.",
+  "spec": "garden; 🌱 200 245 80 pop"
+ },
+ {
+  "key": "masal-10-2",
+  "text": "Yağmur yağdı. Tohum su içti.",
+  "spec": "garden; 🌧️ 200 90 100 float; 🌱 200 250 70"
+ },
+ {
+  "key": "masal-10-3",
+  "text": "Güneş ısıttı. Tohum büyüdü, büyüdü.",
+  "spec": "garden; ☀️ 320 80 84 spin; 🌿 200 235 110 sway"
+ },
+ {
+  "key": "masal-10-4",
+  "text": "Kocaman bir çiçek açtı. Arı geldi: Vızzz!",
+  "spec": "garden; 🌸 195 215 128 pop; 🐝 305 110 52 float; kechy 70 294 .45 happy2"
+ },
+ {
+  "key": "masal-11-1",
+  "text": "Yaz geldi! Kechy kumsala gitti.",
+  "spec": "beach; kechy 200 292 .78 happy2"
+ },
+ {
+  "key": "masal-11-2",
+  "text": "Şapkasını taktı, güneş kremini sürdü.",
+  "spec": "beach; kechy 165 292 .78 happy2; 🧢 290 160 52 pop; 🧴 310 250 50"
+ },
+ {
+  "key": "masal-11-3",
+  "text": "Kumdan kocaman bir kale yaptı.",
+  "spec": "beach; 🏰 250 235 124 pop; kechy 110 292 .62 happy2"
+ },
+ {
+  "key": "masal-11-4",
+  "text": "Minik bir kaplumbağa denize yürüdü. Güle güle!",
+  "spec": "beach; 🐢 230 258 84 sway; 🌊 340 230 60; kechy 95 292 .55 happy2"
+ },
+ {
+  "key": "masal-12-1",
+  "text": "Momo bugün çok üzgündü. Kimse onunla oynamıyordu.",
+  "spec": "school; momo 200 292 1.1 sleep"
+ },
+ {
+  "key": "masal-12-2",
+  "text": "Kechy onu gördü: Gel, beraber oynayalım!",
+  "spec": "school; kechy 140 292 .78 happy; momo 295 292 .95 sleep; 💬 215 110 52 pop"
+ },
+ {
+  "key": "masal-12-3",
+  "text": "Birlikte top oynadılar. Momo gülümsedi.",
+  "spec": "meadow; kechy 125 292 .72 happy2; momo 285 292 .95 happy2; ⚽ 205 258 52 pop"
+ },
+ {
+  "key": "masal-12-4",
+  "text": "Herkes oyuna katıldı. Kimse yalnız kalmadı!",
+  "spec": "meadow; kechy 70 294 .55 happy2; momo 160 292 .78 happy2; piko 250 292 .78 happy2; luna 340 292 .78 happy2; ❤️ 205 70 52 float"
+ },
+ {
+  "key": "book-1",
+  "text": "Kechy ile Momo her sabah okulun bahçesinde buluşurdu. Bir gün Momo çok sessizdi.",
+  "spec": "school; kechy 130 292 .72 happy; momo 285 292 .95 sleep"
+ },
+ {
+  "key": "book-2",
+  "text": "“Ne oldu Momo?” diye sordu Kechy. Momo yere baktı: “Bazıları kulaklarımla dalga geçiyor. Beni oyunlarına almıyorlar.”",
+  "spec": "school; momo 195 292 1.1 sleep; 💧 250 120 30 float"
+ },
+ {
+  "key": "book-3",
+  "text": "Kechy üzüldü. Sonra aklına Luna'nın sözü geldi: “Zorbalık görürsen susma. Yanında dur ve bir büyüğe anlat.”",
+  "spec": "school; kechy 190 292 .82 wow; 💭 300 90 56 pop"
+ },
+ {
+  "key": "book-4",
+  "text": "Kechy, Momo'nun elini tuttu. Birlikte öğretmenleri Luna'ya gittiler ve her şeyi anlattılar.",
+  "spec": "school; kechy 100 292 .62 happy; momo 205 292 .85 happy; luna 320 292 .9 happy"
+ },
+ {
+  "key": "book-5",
+  "text": "Ertesi gün Piko, Robo ve Mino da geldi. “Momo, bizimle oynar mısın?” dediler. Oyun daha önce hiç bu kadar eğlenceli olmamıştı.",
+  "spec": "meadow; piko 90 292 .8 happy2; robo 205 292 .8 happy2; mino 320 292 .8 happy2; ⚽ 205 110 44 float"
+ },
+ {
+  "key": "book-6",
+  "text": "O günden sonra bahçede bir kural vardı: Kimse yalnız kalmaz. Sen de bir Arkadaşlık Kalkanı olabilirsin!",
+  "spec": "meadow; kechy 50 294 .45 happy2; momo 115 292 .62 happy2; piko 180 292 .62 happy2; luna 245 292 .62 happy2; robo 310 292 .62 happy2; mino 370 292 .58 happy2; 🛡️ 205 60 52 pop"
+ },
+ {
+  "key": "story-yildiz",
+  "text": "Bir gece Kechy tepede otururken gökyüzünden minik bir ışık düştü. Işık, çimenlerin arasında titriyordu. Kechy yaklaştı ve gördü ki bu küçücük bir yıldızdı.",
+  "spec": "night; kechy 170 292 .8 wow; ⭐ 285 150 56 float"
+ },
+ {
+  "key": "story-luna",
+  "text": "Luna her gece ormanın ortasındaki yaşlı meşe ağacında bir kütüphane açardı. Tavşanlar, sincaplar ve kirpiler gelir, Luna da onlara kitap okurdu. Bir gece küçük bir kirpi en arkada yalnız oturuyordu.",
+  "spec": "night; luna 210 200 1 happy; 🌳 90 230 120; 📖 300 250 52; 🦔 350 268 44"
+ },
+ {
+  "key": "story-robo",
+  "text": "Robo hiç uyumazdı. Gece gündüz bulmaca çözer, kod yazar, düğmelerine basardı. Bir gün ışıkları titremeye başladı.",
+  "spec": "night; robo 190 292 1.05 sleep; 💤 280 120 44 float"
+ }
+]

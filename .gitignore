@@ -1,0 +1,26 @@
+# issue PDFs (up to 240 MB each, over GitHub's 100 MB file limit) and the large page copies made for transcription
+sayilar/pdf/
+sayilar/ocr/
+# one-off research downloads
+sayilar/neye/
+sayilar/wb/
+sayilar/wayback_cdx.txt
+sayilar/probe.py
+sayilar/posts_info.py
+_repo/
+
+# build outputs that are not the website (kechy-dunyasi/ is the website and is committed)
+kechy.html
+Kechy-Dunyasi.html
+preview.html
+
+# local tools state and logs
+.vercel/
+kechy-dunyasi/.vercel/
+tools/log*.txt
+tools/group*.txt
+ses-ornekleri/
+__pycache__/
+node_modules/
+.env
+.env.*

@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Kechy Dünyası",
+  "short_name": "Kechy",
+  "description": "Kechy Çocuk Dergisi: oku, oyna, keşfet, üret.",
+  "start_url": "./#kechy",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FDF6E1",
+  "theme_color": "#1FA2B0",
+  "lang": "tr",
+  "dir": "ltr",
+  "categories": ["education", "kids", "books"],
+  "icons": [
+    { "src": "img/app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "img/app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "img/app/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Masallar", "url": "./#masallar", "icons": [{ "src": "img/app/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Oyunlar", "url": "./#oyna", "icons": [{ "src": "img/app/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Müzik", "url": "./#muzik", "icons": [{ "src": "img/app/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
